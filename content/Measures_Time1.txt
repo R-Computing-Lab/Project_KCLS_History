@@ -1,0 +1,39 @@
+\textbf{Allport-Vernon Scale of Values} \citep{vernon1931test} measured how participants prioritized theoretic, economic, aesthic, social, political, and religious values. Participants had to select between two ``controversial statements'' for 45 items. The test-retest reliability after 1 year was above .7 for all the individual scales except the social scale, which was .57 \citep{whitely1938constancy}. However, after 25 years, the test-retest reliability was considerably lower \citep{kelly1955}: all the individual scales except the social scale (.33) and the religious scale (.60), were approximately .50.
+
+\textbf{Bernreuter Personality Inventory} \citep{bernreuter1933theory,Bernreuter1935} was a pencil and paper test designed to measure participants' personality on the following traits: neurotic tendency, self-sufficiency, introversion, and dominance. Participants responded to each of the 125 statements by selecting ``Yes'', ``No'', or ``?.'' However, these factors were notoriously unreliable (See \citealp{lorge1935personality} for a summary of the debate); the scoring was redone, reducing the traits to Self-Confidence (F1C) and Sociability (F2S) \citep{flanagan1935factor}. The reported reliabilities of the F1C and F2S are both above .80. The test-retest reliability after 20 years was .61 for F1C and .45 for F2S. CITATION? 
+
+\textbf{Bell Adjustment Inventory} \citep{Bell1938} was another pencil paper personality test designed to measure student-adjustment in the following domains: School Adjustment, Health Adjustment, Vocational and Occupational Adjustment, Motor and Mechanical Adjustment, Social Adjustment, Home Adjustment, Emotional Adjustment, and Religious Adjustment. It was designed for young adults in high school and early college \citep{bell1939theory}. The test-retest reliability after 13 years was .48 \citep{cantoni1955study}. 
+
+\textbf{Kelly's Personality Rating Scale} \citep{kelly194036}, which had participants 
+rate themselves on 36 personality characteristics relative to their peer group on a graphical scale. ADD INFORMAITON HERE.
+
+Otis Self-Administering Test of Mental Ability: Form A (Otis, 1922), which measured 
+participants' general intelligence. The test-retest reliability after one year was .71 (Traxler, 1934).  
+
+Strong's Vocational Interest Inventory, Men’s blank (Strong, 1943), which assessed whether a 
+participant’s interest in a specific vocation matched those who were successful in specific 
+vocations. The vocations were divided into 11 groups. Group 1 consisted of artists, 
+
+psychologists, architects, physicians, and dentists. Group 2 consisted of mathematicians, 
+engineers, and chemists. Group 3 consisted of production managers. Group 4 consisted of 
+aviators, farmers, carpenters, printers, mathematics-science teachers, policeman, and forest 
+servicemen. Group 5 consisted of YMCA physical directors, personnel managers, YMCA 
+secretaries, social science teachers, city school superintendents, and ministers. Group 6 
+consisted of musicians. Group 7 consisted of certified public accountants. Group 8 consisted 
+of Accountants, office men, purchasing agents, and bankers. Group 9 consisted of sales 
+managers, realtors, and life insurance agents. Group 10 consisted of advertising men, 
+lawyers, and author-journalists. Group 11 consisted of presidents. The test-retest correlation 
+after twenty years varied by group, but in general it hovered between .5 and .6 (Kelly, 1955). 
+7)  Remmer's Generalized Attitude Scales on institutions and activities (Remmers, 1934), which 
+had participants indicate their opinion on marriage, divorce, and church. It also had 
+participants rate how much they enjoyed particular gender-specific tasks related to home 
+maintenance, such as rearing children, housekeeping, entertaining, and gardening. These 
+scales had the lowest test-retest correlations, ranging from .08 for marriage and .35 for 
+gardening \citep{kelly1955}. Kelly (\citeyear{kelly1955}) estimated that the long-term consistency of attitudes was 8%, compared to values and self-rated personality.  
+8)  Personal Data Sheet (Kelly, 1978), which gathered demographic information such as race, age, creed, occupation, etc.,  
+9)  Physiological Data Sheet (Kelly, 1978), which gathered physiological information such as height, weight, and medical history, and  
+10) Views on Ideal Marriage (Kelly, 1978), which asked participants to rate how essential 35 items were to a happy marriage (1= Very essential, 5 = Decidedly not desirable). The long-term reliability of these have not been assessed. 
+
+The annual follow-up, collected until 1941, contained a questionnaire that was to be 
+completed independently. No analysis has been done on these follow-ups (J. J. Connolly, 
+personal communication, April 5th, 2013). 

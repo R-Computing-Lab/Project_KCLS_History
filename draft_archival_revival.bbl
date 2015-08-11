@@ -1,6 +1,127 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
+Bell%
+}{%
+Bell%
+}{%
+{\protect \APACyear {1938}}%
+}]{%
+Bell1938}
+\APACinsertmetastar {%
+Bell1938}%
+\begin{APACrefauthors}%
+Bell, H\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1938}.
+\newblock
+\APACrefbtitle {{Manual for the adjustment inventory: Adult form}} {{Manual for
+  the adjustment inventory: Adult form}}.
+\newblock
+\APACaddressPublisher{Palo Alto, CA}{Consulting Psychologists Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bell%
+}{%
+Bell%
+}{%
+{\protect \APACyear {1939}}%
+}]{%
+bell1939theory}
+\APACinsertmetastar {%
+bell1939theory}%
+\begin{APACrefauthors}%
+Bell, H\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1939}.
+\newblock
+\APACrefbtitle {{The theory and practice of personal counseling: With special
+  reference to the adjustment inventory}} {{The theory and practice of personal
+  counseling: With special reference to the adjustment inventory}}.
+\newblock
+\APACaddressPublisher{}{Stanford University Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bernreuter%
+}{%
+Bernreuter%
+}{%
+{\protect \APACyear {1933}}%
+}]{%
+bernreuter1933theory}
+\APACinsertmetastar {%
+bernreuter1933theory}%
+\begin{APACrefauthors}%
+Bernreuter, R\BPBI G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1933}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{The theory and construction of the personality
+  inventory}} {{The theory and construction of the personality
+  inventory}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The Journal of Social Psychology}{4}{4}{387--405}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bernreuter%
+}{%
+Bernreuter%
+}{%
+{\protect \APACyear {1935}}%
+}]{%
+Bernreuter1935}
+\APACinsertmetastar {%
+Bernreuter1935}%
+\begin{APACrefauthors}%
+Bernreuter, R\BPBI G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1935}.
+\newblock
+\APACrefbtitle {{Manual for the personality inventory.}} {{Manual for the
+  personality inventory.}}
+\newblock
+\APACaddressPublisher{Palo Alto, CA, US}{Stanford Univ. Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Cantoni%
+}{%
+Cantoni%
+}{%
+{\protect \APACyear {1955}}%
+}]{%
+cantoni1955study}
+\APACinsertmetastar {%
+cantoni1955study}%
+\begin{APACrefauthors}%
+Cantoni, L\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1955}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{A Study in Emotional Adjustment: The Correlation of
+  Student and Adult Forms of the Bell Adjustment Inventory Over a Period of
+  Thirteen Years}} {{A Study in Emotional Adjustment: The Correlation of
+  Student and Adult Forms of the Bell Adjustment Inventory Over a Period of
+  Thirteen Years}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Educational and Psychological
+  Measurement}{15}{2}{137--143}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Deary%
 , Gow%
 , Pattie%
@@ -27,6 +148,29 @@ Deary, I\BPBI J.%
   1936}} {{Cohort profile: the Lothian Birth Cohorts of 1921 and 1936}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{International journal of epidemiology}{}{}{dyr197}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Flanagan%
+}{%
+Flanagan%
+}{%
+{\protect \APACyear {1935}}%
+}]{%
+flanagan1935factor}
+\APACinsertmetastar {%
+flanagan1935factor}%
+\begin{APACrefauthors}%
+Flanagan, J\BPBI C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1935}.
+\newblock
+\APACrefbtitle {{Factor analysis in the study of personality}} {{Factor
+  analysis in the study of personality}}.
+\newblock
+\APACaddressPublisher{}{Stanford University Press}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -84,6 +228,52 @@ Goldberg, L\BPBI R.%
 
 \bibitem [\protect \citeauthoryear {%
 Kelly%
+}{%
+Kelly%
+}{%
+{\protect \APACyear {1940}}%
+}]{%
+kelly194036}
+\APACinsertmetastar {%
+kelly194036}%
+\begin{APACrefauthors}%
+Kelly, E\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1940}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{A 36 trait personality rating scale}} {{A 36 trait
+  personality rating scale}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The Journal of Psychology}{9}{1}{97--102}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kelly%
+}{%
+Kelly%
+}{%
+{\protect \APACyear {1955}}%
+}]{%
+kelly1955}
+\APACinsertmetastar {%
+kelly1955}%
+\begin{APACrefauthors}%
+Kelly, E\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1955}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Consistency of the adult personality.}} {{Consistency
+  of the adult personality.}}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{American Psychologist}{10}{11}{659}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kelly%
 \ \BBA {} Conley%
 }{%
 Kelly%
@@ -108,6 +298,35 @@ Kelly, E\BPBI L.%
   Satisfaction}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Journal of personality and social psychology}{52}{1}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lorge%
+, Bernholz%
+\BCBL {}\ \BBA {} Sells%
+}{%
+Lorge%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1935}}%
+}]{%
+lorge1935personality}
+\APACinsertmetastar {%
+lorge1935personality}%
+\begin{APACrefauthors}%
+Lorge, I.%
+, Bernholz, E.%
+\BCBL {}\ \BBA {} Sells, S\BPBI B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1935}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Personality traits by fiat. II. The consistency of the
+  Bernreuter Personality Inventory by the Bernreuter and by the Flanagan
+  keys.}} {{Personality traits by fiat. II. The consistency of the Bernreuter
+  Personality Inventory by the Bernreuter and by the Flanagan keys.}}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Educational Psychology}{26}{6}{427}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -181,6 +400,57 @@ TheScottishCouncilforResearchinEducation1949}%
   intelligence of eleven-year-old pupils}}.
 \newblock
 \APACaddressPublisher{}{University of London Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Vernon%
+\ \BBA {} Allport%
+}{%
+Vernon%
+\ \BBA {} Allport%
+}{%
+{\protect \APACyear {1931}}%
+}]{%
+vernon1931test}
+\APACinsertmetastar {%
+vernon1931test}%
+\begin{APACrefauthors}%
+Vernon, P\BPBI E.%
+\BCBT {}\ \BBA {} Allport, G\BPBI W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1931}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{A test for personal values.}} {{A test for personal
+  values.}}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The Journal of Abnormal and Social
+  Psychology}{26}{3}{231}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Whitely%
+}{%
+Whitely%
+}{%
+{\protect \APACyear {1938}}%
+}]{%
+whitely1938constancy}
+\APACinsertmetastar {%
+whitely1938constancy}%
+\begin{APACrefauthors}%
+Whitely, P\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1938}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{The constancy of personal values.}} {{The constancy of
+  personal values.}}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The Journal of Abnormal and Social
+  Psychology}{33}{3}{405}.
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}

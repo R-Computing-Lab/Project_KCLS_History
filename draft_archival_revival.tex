@@ -119,21 +119,33 @@
 \newcommand{\cmb}[1]{\todo[color=blue!40]{\lstinline|#1|}}
 \title{Recovering the Big Five from archival data:\\ The history of the Kelly/Connolly Longitudinal Study}
 \shorttitle{Archival Revival}
-%\fourauthors{S. Mason Garrison}{James J. Connolly and Madeleine Leveille}{Jeremy Biesanz}{Joshua J. Jackson}
-%\fouraffiliations{Vanderbilt University}{Connolly Consulting}{University of British Columbia}{Washington University in St. Louis}
+%\fiveauthors{S. Mason Garrison}{James J. Connolly and Madeleine Leveille}{Jeremy Biesanz}{E. L. Kelly}{Joshua J. Jackson}
+%\fiveaffiliations{Vanderbilt University}{Connolly Consulting}{University of British Columbia}{University of Michigan}{Washington University in St. Louis}
 \addtolength{\marginparwidth}{6cm}
 \addtolength{\paperwidth}{\marginparwidth-1cm}
 
 \abstract{Your abstract here.\\\today\ at \currenttime}
-\authornote{This material is based upon work that has been supported by the Interuniversity Consortium for Political and Social Research, the National Institute on Aging under Grant No. (02937), the National Psychiatric Research Fund, the National Research Council, the National Science Foundation Graduate Research Fellowship Program under Grant No. (DGE-1445197), the Robert Hogan Family Foundation, the Society of Multivariate Experimental Psychology, and various means of institutional support from the following universities: University of British Columbia, University of Connecticut, University of Michigan, Purdue University, Vanderbilt University, Washington University in St. Louis, \& Wesleyan University.}
+\authornote{This material is based upon work that has been supported by the the Interuniversity Consortium for Political and Social Research, the National Institute on Aging under Grant No. (02937), the National Psychiatric Research Fund, the National Research Council, the National Science Foundation Graduate Research Fellowship Program under Grant No. (DGE-1445197), the Robert Hogan Family Foundation, the Society of Multivariate Experimental Psychology, and various means of support from the following institutions: University of British Columbia, University of Connecticut, Henry A. Murray Research Center of Harvard University, University of Michigan, Purdue University, Vanderbilt University, Washington University in St. Louis, \& Wesleyan University.}
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
 \begin{document}
 \maketitle
 \section{Preface}\cmb{content/Preface.txt}\input{content/preface.txt}
-\section{Outline}\cmb{content/Outline.txt}\input{content/outline.txt}
+\section{Abridged Historical Context with Study Timeline}\cmb{content/Abridged Historical Context.txt}\input{"content/Abridged Historic Context.txt"}
+\section{Measurement/Validity Study}
+\section{Measures}
+\subsection{Time 1}\cmb{content/Measures_Time1.txt}
+
+\input{content/Measures_Time1.txt}
+\section{Major Appendices}
+\begin{itemize}
+\item Historic Context, Full Timeline
+\item Annotated Bibliography of Publications Using the KCLS
+\item Marriage Manuscript
+\item Lowell Autobiography
+\end{itemize}
 \pagebreak\bibliography{KellyMeasurement}\label{bibliography}
 \appendix\label{appen}\pagebreak\setboolean{@twoside}{false}
-\includepdf[pages=1,scale=1,pagecommand={\section{Bibliography of All Known KCLS Papers}\hfill}]{content/PDFs/KCLSFull.pdf}
+%\includepdf[pages=1,scale=1,pagecommand={\section{Bibliography of All Known KCLS Papers}\hfill}]{content/PDFs/KCLSFull.pdf}
 \includepdf[pages=1,scale=1,pagecommand={\section{Marriage Manuscript}\hfill}]{content/PDFs/MarriageManuscriptREPAIRED.pdf}
 \includepdf[pages=2,scale=1,pagecommand={\hfill}]{content/PDFs/MarriageManuscriptREPAIRED.pdf}
 \includepdf[pages=3,scale=1,offset=0 -52,pagecommand={\hfill}]{content/PDFs/MarriageManuscriptREPAIRED.pdf}
