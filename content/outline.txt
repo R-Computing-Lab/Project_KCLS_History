@@ -1,0 +1,12 @@
+Two major sections\\
+\begin{itemize}
+\item Abridged Historic Context with Study Timeline
+\item Measurement/Validity Study
+\end{itemize}
+Major Appendices\\
+\begin{itemize}
+\item Historic Context, Full Timeline
+\item Annotated Biography of Publications Using the KCLS
+\item Marriage Manuscript
+\item Lowell Autobiography
+\end{itemize}
