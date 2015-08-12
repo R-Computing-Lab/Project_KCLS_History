@@ -330,6 +330,29 @@ Lorge, I.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Otis%
+}{%
+Otis%
+}{%
+{\protect \APACyear {1922}}%
+}]{%
+otis1922otis}
+\APACinsertmetastar {%
+otis1922otis}%
+\begin{APACrefauthors}%
+Otis, A\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1922}.
+\newblock
+\APACrefbtitle {{Otis self-administering tests of mental ability.}} {{Otis
+  self-administering tests of mental ability.}}
+\newblock
+\APACaddressPublisher{Oxford, England}{World Book Co.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Terman%
 }{%
 Terman%
@@ -400,6 +423,29 @@ TheScottishCouncilforResearchinEducation1949}%
   intelligence of eleven-year-old pupils}}.
 \newblock
 \APACaddressPublisher{}{University of London Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Traxler%
+}{%
+Traxler%
+}{%
+{\protect \APACyear {1934}}%
+}]{%
+traxler1934reliability}
+\APACinsertmetastar {%
+traxler1934reliability}%
+\begin{APACrefauthors}%
+Traxler, A\BPBI E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1934}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Reliability, constancy and validity of the Otis IQ.}}
+  {{Reliability, constancy and validity of the Otis IQ.}}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Applied Psychology}{18}{2}{241}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%

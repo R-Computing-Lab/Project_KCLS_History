@@ -7,32 +7,17 @@
 \textbf{Kelly's Personality Rating Scale} \citep{kelly194036}, which had participants 
 rate themselves on 36 personality characteristics relative to their peer group on a graphical scale. ADD INFORMAITON HERE.
 
-Otis Self-Administering Test of Mental Ability: Form A (Otis, 1922), which measured 
-participants' general intelligence. The test-retest reliability after one year was .71 (Traxler, 1934).  
+\textbf{Otis Self-Administering Test of Mental Ability}: Form A \citep{otis1922otis}, which measured participants' general intelligence. The test-retest reliability after one year was .71 \citep{traxler1934reliability}.  This value is much lower than modern intelligence tests, whose test-retest scores tend to be X. XXX MORE ON THIS.
 
-Strong's Vocational Interest Inventory, Men’s blank (Strong, 1943), which assessed whether a 
-participant’s interest in a specific vocation matched those who were successful in specific 
-vocations. The vocations were divided into 11 groups. Group 1 consisted of artists, 
+\textbf{Strong's Vocational Interest Inventory}, Men's blank (Strong, 1943), which assessed whether a participant's interest in a specific vocation matched those who were successful in specific vocations. The vocations were divided into 11 groups. Group 1 consisted of artists, psychologists, architects, physicians, and dentists. Group 2 consisted of mathematicians, engineers, and chemists. Group 3 consisted of production managers. Group 4 consisted of aviators, farmers, carpenters, printers, mathematics-science teachers, policeman, and forest servicemen. Group 5 consisted of YMCA physical directors, personnel managers, YMCA secretaries, social science teachers, city school superintendents, and ministers. Group 6 consisted of musicians. Group 7 consisted of certified public accountants. Group 8 consisted of Accountants, office men, purchasing agents, and bankers. Group 9 consisted of sales managers, realtors, and life insurance agents. Group 10 consisted of advertising men, lawyers, and author-journalists. Group 11 consisted of presidents. The test-retest correlation after twenty years varied by group, but in general it hovered between .5 and .6 \citep{kelly1955}. 
 
-psychologists, architects, physicians, and dentists. Group 2 consisted of mathematicians, 
-engineers, and chemists. Group 3 consisted of production managers. Group 4 consisted of 
-aviators, farmers, carpenters, printers, mathematics-science teachers, policeman, and forest 
-servicemen. Group 5 consisted of YMCA physical directors, personnel managers, YMCA 
-secretaries, social science teachers, city school superintendents, and ministers. Group 6 
-consisted of musicians. Group 7 consisted of certified public accountants. Group 8 consisted 
-of Accountants, office men, purchasing agents, and bankers. Group 9 consisted of sales 
-managers, realtors, and life insurance agents. Group 10 consisted of advertising men, 
-lawyers, and author-journalists. Group 11 consisted of presidents. The test-retest correlation 
-after twenty years varied by group, but in general it hovered between .5 and .6 (Kelly, 1955). 
-7)  Remmer's Generalized Attitude Scales on institutions and activities (Remmers, 1934), which 
-had participants indicate their opinion on marriage, divorce, and church. It also had 
-participants rate how much they enjoyed particular gender-specific tasks related to home 
-maintenance, such as rearing children, housekeeping, entertaining, and gardening. These 
-scales had the lowest test-retest correlations, ranging from .08 for marriage and .35 for 
-gardening \citep{kelly1955}. Kelly (\citeyear{kelly1955}) estimated that the long-term consistency of attitudes was 8%, compared to values and self-rated personality.  
-8)  Personal Data Sheet (Kelly, 1978), which gathered demographic information such as race, age, creed, occupation, etc.,  
-9)  Physiological Data Sheet (Kelly, 1978), which gathered physiological information such as height, weight, and medical history, and  
-10) Views on Ideal Marriage (Kelly, 1978), which asked participants to rate how essential 35 items were to a happy marriage (1= Very essential, 5 = Decidedly not desirable). The long-term reliability of these have not been assessed. 
+\textbf{Remmer's Generalized Attitude Scales} on institutions and activities (Remmers, 1934), which had participants indicate their opinion on marriage, divorce, and church. It also had participants rate how much they enjoyed particular gender-specific tasks related to home maintenance, such as rearing children, housekeeping, entertaining, and gardening. These scales had the lowest test-retest correlations, ranging from .08 for marriage and .35 for gardening \citep{kelly1955}. Kelly (\citeyear{kelly1955}) estimated that the long-term consistency of attitudes was 8\%, compared to values and self-rated personality.  
+
+Personal Data Sheet (Kelly, 1978), which gathered demographic information such as race, age, creed, occupation, etc.,  
+
+Physiological Data Sheet (Kelly, 1978), which gathered physiological information such as height, weight, and medical history, and  
+ 
+ Views on Ideal Marriage (Kelly, 1978), which asked participants to rate how essential 35 items were to a happy marriage (1 = Very essential, 5 = Decidedly not desirable). The long-term reliability of these have not been assessed. 
 
 The annual follow-up, collected until 1941, contained a questionnaire that was to be 
 completed independently. No analysis has been done on these follow-ups (J. J. Connolly, 
