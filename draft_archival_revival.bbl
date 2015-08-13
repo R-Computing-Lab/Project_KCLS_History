@@ -227,6 +227,40 @@ Goldberg, L\BPBI R.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Jackson%
+, Connolly%
+, Garrison%
+, Leveille%
+\BCBL {}\ \BBA {} Connolly%
+}{%
+Jackson%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+Jackson2015}
+\APACinsertmetastar {%
+Jackson2015}%
+\begin{APACrefauthors}%
+Jackson, J\BPBI J.%
+, Connolly, J\BPBI J.%
+, Garrison, S\BPBI M.%
+, Leveille, M\BPBI M.%
+\BCBL {}\ \BBA {} Connolly, S\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Your friends know how long you will live: A 75-year
+  study of peer-rated personality traits.}} {{Your friends know how long you
+  will live: A 75-year study of peer-rated personality traits.}}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Psychological Science}{}{}{}.
+\newblock
+\begin{APACrefDOI} \doi{10.1177/0956797614561800} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Kelly%
 }{%
 Kelly%
@@ -270,6 +304,29 @@ Kelly, E\BPBI L.%
   of the adult personality.}}{\BBCQ}
 \newblock
 \APACjournalVolNumPages{American Psychologist}{10}{11}{659}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kelly%
+}{%
+Kelly%
+}{%
+{\protect \APACyear {1977}}%
+}]{%
+Kelly1977}
+\APACinsertmetastar {%
+Kelly1977}%
+\begin{APACrefauthors}%
+Kelly, E\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1977}{}{}.
+\newblock
+\APACrefbtitle {{The marriage study [Unpublished Manuscript]}.} {{The marriage
+  study [Unpublished Manuscript]}.}
+\newblock
+\APACaddressPublisher{Ann Arbor, MI}{University of Michigan}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -350,6 +407,55 @@ Otis, A\BPBI S.%
   self-administering tests of mental ability.}}
 \newblock
 \APACaddressPublisher{Oxford, England}{World Book Co.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Remmers%
+\ \BBA {} Silance%
+}{%
+Remmers%
+\ \BBA {} Silance%
+}{%
+{\protect \APACyear {1934}}%
+}]{%
+remmers1934generalized}
+\APACinsertmetastar {%
+remmers1934generalized}%
+\begin{APACrefauthors}%
+Remmers, H\BPBI H.%
+\BCBT {}\ \BBA {} Silance, E\BPBI B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1934}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Generalized attitude scales}} {{Generalized attitude
+  scales}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The Journal of Social Psychology}{5}{3}{298--312}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Strong%
+}{%
+Strong%
+}{%
+{\protect \APACyear {1943}}%
+}]{%
+strong1943vocational}
+\APACinsertmetastar {%
+strong1943vocational}%
+\begin{APACrefauthors}%
+Strong, E\BPBI K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1943}.
+\newblock
+\APACrefbtitle {{Vocational interests of men and women}} {{Vocational interests
+  of men and women}}.
+\newblock
+\APACaddressPublisher{}{Stanford University Press}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
