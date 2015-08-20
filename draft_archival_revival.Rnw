@@ -82,10 +82,16 @@
 \section{Preface}\cmb{content/Preface.txt}\input{content/preface.txt}
 \section{Abridged Historical Context with Study Timeline}\cmb{content/Abridged Historical Context.txt}\input{"content/Abridged Historic Context.txt"}
 \section{Measurement/Validity Study}
+\cmb{content/validation.txt}
+\input{content/validation.txt}
+\section{Administration}
 \section{Measures}
 \subsection{Time 1}\cmb{content/Measures_Time1.txt}
-
 \input{content/Measures_Time1.txt}
+\subsection{Time 1.5}
+\subsection{Time 2}
+\subsection{Time 3}
+
 \section{Major Appendices}
 \begin{itemize}
 \item Historic Context, Full Timeline
