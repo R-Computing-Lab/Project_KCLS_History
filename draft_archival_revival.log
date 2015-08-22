@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.26)  17 AUG 2015 15:10
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.26)  21 AUG 2015 16:17
 entering extended mode
 **draft_archival_revival.tex
 
@@ -1350,14 +1350,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 3.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 3.
- [3]
-! Too many }'s.
-l.7 ...vents by couple was 1 (IQR = 2, max = 10).}
-                                                  
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-)
+ [3])
 ("C:\Dropbox\Work\Research\Projects\KLS\KCLS History\R\content/Measures_Time1.t
 xt" [4]
 
@@ -1373,12 +1366,11 @@ Package natbib Warning: Citation `kelly1977' on page 6 undefined on input line
 Package natbib Warning: Citation `kelly1977' on page 6 undefined on input line 
 17.
 
-[6]
 
-Package natbib Warning: Citation `kelly1977' on page 7 undefined on input line 
+Package natbib Warning: Citation `kelly1977' on page 6 undefined on input line 
 19.
 
-)
+) [6]
 LaTeX Font Info:    Try loading font information for TS1+lmr on input line 147.
 
  ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ts1lmr.fd"
@@ -1392,7 +1384,7 @@ bl" [8
 pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=201, 614.295pt x 794.97pt>
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=197, 614.295pt x 794.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
 
 <use content/PDFs/MarriageManuscriptREPAIRED.pdf>
@@ -1420,7 +1412,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=204, page=1, 614.295pt x 794.9
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=200, page=1, 614.295pt x 794.9
 7pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 1>
@@ -1482,7 +1474,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=215, page=2, 614.295pt x 794.9
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=211, page=2, 614.295pt x 794.9
 7pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 2>
@@ -1542,7 +1534,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=229, page=3, 614.295pt x 794.9
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=225, page=3, 614.295pt x 794.9
 7pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 3>
@@ -1602,7 +1594,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=242, page=4, 614.295pt x 794.9
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=238, page=4, 614.295pt x 794.9
 7pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 4>
@@ -1633,7 +1625,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=243, page=5, 614.295pt x 794.9
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=239, page=5, 614.295pt x 794.9
 7pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 5>
@@ -1659,7 +1651,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=253, page=6, 614.295pt x 794.9
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=249, page=6, 614.295pt x 794.9
 7pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 6>
@@ -1685,7 +1677,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=261, page=7, 614.295pt x 794.9
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=257, page=7, 614.295pt x 794.9
 7pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 7>
@@ -1711,7 +1703,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=268, page=8, 614.295pt x 794.9
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=264, page=8, 614.295pt x 794.9
 7pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 8>
@@ -1737,7 +1729,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=278, page=9, 614.295pt x 794.9
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=274, page=9, 614.295pt x 794.9
 7pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 9>
@@ -1763,7 +1755,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=292, page=10, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=288, page=10, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 10>
@@ -1789,7 +1781,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=300, page=11, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=296, page=11, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 11>
@@ -1815,7 +1807,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=308, page=12, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=304, page=12, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 12>
@@ -1841,7 +1833,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=315, page=13, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=311, page=13, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 13>
@@ -1867,7 +1859,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=324, page=14, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=320, page=14, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 14>
@@ -1893,7 +1885,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=331, page=15, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=327, page=15, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 15>
@@ -1919,7 +1911,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=338, page=16, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=334, page=16, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 16>
@@ -1945,7 +1937,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=345, page=17, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=341, page=17, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 17>
@@ -1971,7 +1963,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=355, page=18, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=351, page=18, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 18>
@@ -1997,7 +1989,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=364, page=19, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=360, page=19, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 19>
@@ -2023,7 +2015,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=374, page=20, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=370, page=20, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 20>
@@ -2049,7 +2041,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=383, page=21, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=379, page=21, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 21>
@@ -2075,7 +2067,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=392, page=22, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=388, page=22, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 22>
@@ -2101,7 +2093,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=402, page=23, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=398, page=23, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 23>
@@ -2127,7 +2119,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=410, page=24, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=406, page=24, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 24>
@@ -2153,7 +2145,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=418, page=25, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=414, page=25, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 25>
@@ -2179,7 +2171,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=427, page=26, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=423, page=26, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 26>
@@ -2205,7 +2197,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=435, page=27, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=431, page=27, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 27>
@@ -2231,7 +2223,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=443, page=28, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=439, page=28, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 28>
@@ -2257,7 +2249,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=453, page=29, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=449, page=29, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 29>
@@ -2283,7 +2275,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=462, page=30, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=458, page=30, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 30>
@@ -2309,7 +2301,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=470, page=31, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=466, page=31, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 31>
@@ -2335,7 +2327,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=479, page=32, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=475, page=32, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 32>
@@ -2361,7 +2353,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=488, page=33, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=484, page=33, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 33>
@@ -2387,7 +2379,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=495, page=34, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=491, page=34, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 34>
@@ -2413,7 +2405,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=504, page=35, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=500, page=35, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 35>
@@ -2439,7 +2431,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=513, page=36, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=509, page=36, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 36>
@@ -2465,7 +2457,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=521, page=37, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=517, page=37, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 37>
@@ -2491,7 +2483,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=529, page=38, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=525, page=38, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 38>
@@ -2517,7 +2509,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=537, page=39, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=533, page=39, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 39>
@@ -2543,7 +2535,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=545, page=40, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=541, page=40, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 40>
@@ -2569,7 +2561,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=554, page=41, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=550, page=41, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 41>
@@ -2595,7 +2587,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=564, page=42, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=560, page=42, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 42>
@@ -2621,7 +2613,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=573, page=43, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=569, page=43, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 43>
@@ -2647,7 +2639,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=582, page=44, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=578, page=44, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 44>
@@ -2673,7 +2665,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=591, page=45, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=587, page=45, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 45>
@@ -2699,7 +2691,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=599, page=46, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=595, page=46, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 46>
@@ -2725,7 +2717,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=609, page=47, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=605, page=47, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 47>
@@ -2751,7 +2743,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=617, page=48, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=613, page=48, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 48>
@@ -2777,7 +2769,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=625, page=49, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=621, page=49, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 49>
@@ -2803,7 +2795,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=633, page=50, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=629, page=50, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 50>
@@ -2829,7 +2821,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=641, page=51, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=637, page=51, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 51>
@@ -2855,7 +2847,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=650, page=52, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=646, page=52, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 52>
@@ -2881,7 +2873,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=660, page=53, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=656, page=53, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 53>
@@ -2907,7 +2899,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=668, page=54, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=664, page=54, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 54>
@@ -2933,7 +2925,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=675, page=55, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=671, page=55, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 55>
@@ -2959,7 +2951,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=684, page=56, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=680, page=56, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 56>
@@ -2985,7 +2977,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=693, page=57, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=689, page=57, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 57>
@@ -3011,7 +3003,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=700, page=58, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=696, page=58, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 58>
@@ -3037,7 +3029,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=708, page=59, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=704, page=59, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 59>
@@ -3063,7 +3055,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=718, page=60, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=714, page=60, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 60>
@@ -3089,7 +3081,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=725, page=61, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=721, page=61, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 61>
@@ -3115,7 +3107,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=732, page=62, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=728, page=62, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 62>
@@ -3141,7 +3133,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=739, page=63, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=735, page=63, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 63>
@@ -3167,7 +3159,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=747, page=64, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=743, page=64, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 64>
@@ -3193,7 +3185,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=755, page=65, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=751, page=65, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 65>
@@ -3219,7 +3211,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=765, page=66, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=761, page=66, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 66>
@@ -3245,7 +3237,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=773, page=67, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=769, page=67, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 67>
@@ -3271,7 +3263,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=781, page=68, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=777, page=68, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 68>
@@ -3297,7 +3289,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=790, page=69, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=786, page=69, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 69>
@@ -3323,7 +3315,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=798, page=70, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=794, page=70, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 70>
@@ -3349,7 +3341,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=805, page=71, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=801, page=71, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 71>
@@ -3375,7 +3367,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=815, page=72, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=811, page=72, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 72>
@@ -3401,7 +3393,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=822, page=73, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=818, page=73, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 73>
@@ -3427,7 +3419,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=830, page=74, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=826, page=74, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 74>
@@ -3453,7 +3445,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=838, page=75, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=834, page=75, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 75>
@@ -3479,7 +3471,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=845, page=76, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=841, page=76, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 76>
@@ -3505,7 +3497,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=852, page=77, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=848, page=77, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 77>
@@ -3531,7 +3523,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=860, page=78, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=856, page=78, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 78>
@@ -3557,7 +3549,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=869, page=79, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=865, page=79, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 79>
@@ -3583,7 +3575,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=878, page=80, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=874, page=80, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 80>
@@ -3609,7 +3601,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=887, page=81, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=883, page=81, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 81>
@@ -3635,7 +3627,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=895, page=82, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=891, page=82, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 82>
@@ -3661,7 +3653,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=903, page=83, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=899, page=83, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 83>
@@ -3687,7 +3679,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=912, page=84, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=908, page=84, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 84>
@@ -3713,7 +3705,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=919, page=85, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=915, page=85, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 85>
@@ -3739,7 +3731,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=927, page=86, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=923, page=86, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 86>
@@ -3765,7 +3757,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=935, page=87, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=931, page=87, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 87>
@@ -3791,7 +3783,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=944, page=88, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=940, page=88, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 88>
@@ -3817,7 +3809,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=952, page=89, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=948, page=89, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 89>
@@ -3843,7 +3835,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=963, page=90, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=959, page=90, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 90>
@@ -3869,7 +3861,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=971, page=91, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=967, page=91, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 91>
@@ -3895,7 +3887,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=980, page=92, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=976, page=92, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 92>
@@ -3921,7 +3913,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=987, page=93, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=983, page=93, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 93>
@@ -3947,7 +3939,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=996, page=94, 614.295pt x 794.
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=992, page=94, 614.295pt x 794.
 97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 94>
@@ -3973,8 +3965,8 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1003, page=95, 614.295pt x 794
-.97pt>
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=999, page=95, 614.295pt x 794.
+97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 95>
 Package pdftex.def Info: content/PDFs/MarriageManuscriptREPAIRED.pdf, page95 us
@@ -3999,7 +3991,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1012, page=96, 614.295pt x 794
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1008, page=96, 614.295pt x 794
 .97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 96>
@@ -4025,7 +4017,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1019, page=97, 614.295pt x 794
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1015, page=97, 614.295pt x 794
 .97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 97>
@@ -4051,7 +4043,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1026, page=98, 614.295pt x 794
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1022, page=98, 614.295pt x 794
 .97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 98>
@@ -4077,7 +4069,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1033, page=99, 614.295pt x 794
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1029, page=99, 614.295pt x 794
 .97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 99>
@@ -4103,7 +4095,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1041, page=100, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1037, page=100, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 100>
@@ -4129,7 +4121,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1049, page=101, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1045, page=101, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 101>
@@ -4155,7 +4147,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1057, page=102, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1053, page=102, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 102>
@@ -4181,7 +4173,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1064, page=103, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1060, page=103, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 103>
@@ -4207,7 +4199,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1071, page=104, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1067, page=104, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 104>
@@ -4233,7 +4225,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1078, page=105, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1074, page=105, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 105>
@@ -4259,7 +4251,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1085, page=106, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1081, page=106, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 106>
@@ -4285,7 +4277,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1092, page=107, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1088, page=107, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 107>
@@ -4311,7 +4303,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1102, page=108, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1098, page=108, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 108>
@@ -4337,7 +4329,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1109, page=109, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1105, page=109, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 109>
@@ -4363,7 +4355,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1116, page=110, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1112, page=110, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 110>
@@ -4389,7 +4381,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1124, page=111, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1120, page=111, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 111>
@@ -4415,7 +4407,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1131, page=112, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1127, page=112, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 112>
@@ -4441,7 +4433,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1139, page=113, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1135, page=113, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 113>
@@ -4467,7 +4459,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1148, page=114, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1144, page=114, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 114>
@@ -4493,7 +4485,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1156, page=115, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1152, page=115, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 115>
@@ -4519,7 +4511,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1164, page=116, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1160, page=116, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 116>
@@ -4545,7 +4537,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1174, page=117, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1170, page=117, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 117>
@@ -4571,7 +4563,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1182, page=118, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1178, page=118, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 118>
@@ -4597,7 +4589,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1191, page=119, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1187, page=119, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 119>
@@ -4623,7 +4615,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1202, page=120, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1198, page=120, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 120>
@@ -4649,7 +4641,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1210, page=121, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1206, page=121, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 121>
@@ -4675,7 +4667,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1218, page=122, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1214, page=122, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 122>
@@ -4701,7 +4693,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1226, page=123, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1222, page=123, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 123>
@@ -4727,7 +4719,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1234, page=124, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1230, page=124, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 124>
@@ -4753,7 +4745,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1242, page=125, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1238, page=125, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 125>
@@ -4779,7 +4771,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1252, page=126, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1248, page=126, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 126>
@@ -4805,7 +4797,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1261, page=127, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1257, page=127, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 127>
@@ -4831,7 +4823,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1270, page=128, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1266, page=128, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 128>
@@ -4857,7 +4849,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1278, page=129, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1274, page=129, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 129>
@@ -4883,7 +4875,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1285, page=130, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1281, page=130, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 130>
@@ -4909,7 +4901,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1292, page=131, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1288, page=131, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 131>
@@ -4935,7 +4927,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1303, page=132, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1299, page=132, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 132>
@@ -4961,7 +4953,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1311, page=133, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1307, page=133, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 133>
@@ -4987,7 +4979,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1319, page=134, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1315, page=134, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 134>
@@ -5013,7 +5005,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1327, page=135, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1323, page=135, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 135>
@@ -5039,7 +5031,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1334, page=136, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1330, page=136, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 136>
@@ -5065,7 +5057,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1342, page=137, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1338, page=137, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 137>
@@ -5091,7 +5083,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1351, page=138, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1347, page=138, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 138>
@@ -5117,7 +5109,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1360, page=139, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1356, page=139, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 139>
@@ -5143,7 +5135,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1368, page=140, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1364, page=140, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 140>
@@ -5169,7 +5161,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1377, page=141, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1373, page=141, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 141>
@@ -5195,7 +5187,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1386, page=142, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1382, page=142, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 142>
@@ -5221,7 +5213,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1394, page=143, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1390, page=143, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 143>
@@ -5247,7 +5239,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1404, page=144, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1400, page=144, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 144>
@@ -5273,7 +5265,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1411, page=145, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1407, page=145, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 145>
@@ -5299,7 +5291,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1419, page=146, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1415, page=146, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 146>
@@ -5325,7 +5317,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1427, page=147, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1423, page=147, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 147>
@@ -5351,7 +5343,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1434, page=148, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1430, page=148, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 148>
@@ -5377,7 +5369,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1442, page=149, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1438, page=149, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 149>
@@ -5403,7 +5395,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1451, page=150, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1447, page=150, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 150>
@@ -5429,7 +5421,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1461, page=151, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1457, page=151, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 151>
@@ -5455,7 +5447,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1470, page=152, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1466, page=152, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 152>
@@ -5481,7 +5473,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1479, page=153, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1475, page=153, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 153>
@@ -5507,7 +5499,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1488, page=154, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1484, page=154, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 154>
@@ -5533,7 +5525,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1496, page=155, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1492, page=155, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 155>
@@ -5559,7 +5551,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1506, page=156, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1502, page=156, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 156>
@@ -5585,7 +5577,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1513, page=157, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1509, page=157, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 157>
@@ -5611,7 +5603,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1520, page=158, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1516, page=158, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 158>
@@ -5637,7 +5629,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1528, page=159, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1524, page=159, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 159>
@@ -5663,7 +5655,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1538, page=160, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1534, page=160, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 160>
@@ -5689,7 +5681,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1546, page=161, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1542, page=161, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 161>
@@ -5715,7 +5707,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1554, page=162, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1550, page=162, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 162>
@@ -5741,7 +5733,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1562, page=163, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1558, page=163, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 163>
@@ -5767,7 +5759,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1572, page=164, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1568, page=164, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 164>
@@ -5793,7 +5785,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1580, page=165, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1576, page=165, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 165>
@@ -5819,7 +5811,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1589, page=166, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1585, page=166, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 166>
@@ -5845,7 +5837,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1596, page=167, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1592, page=167, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 167>
@@ -5871,7 +5863,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1605, page=168, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1601, page=168, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 168>
@@ -5897,7 +5889,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1612, page=169, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1608, page=169, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 169>
@@ -5923,7 +5915,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1621, page=170, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1617, page=170, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 170>
@@ -5949,7 +5941,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1629, page=171, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1625, page=171, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 171>
@@ -5975,7 +5967,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1637, page=172, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1633, page=172, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 172>
@@ -6001,7 +5993,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1645, page=173, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1641, page=173, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 173>
@@ -6027,7 +6019,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1654, page=174, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1650, page=174, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 174>
@@ -6053,7 +6045,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1662, page=175, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1658, page=175, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 175>
@@ -6079,7 +6071,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1670, page=176, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1666, page=176, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 176>
@@ -6105,7 +6097,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1678, page=177, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1674, page=177, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 177>
@@ -6131,7 +6123,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1687, page=178, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1683, page=178, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 178>
@@ -6157,7 +6149,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1694, page=179, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1690, page=179, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 179>
@@ -6183,7 +6175,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1703, page=180, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1699, page=180, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 180>
@@ -6209,7 +6201,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1713, page=181, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1709, page=181, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 181>
@@ -6235,7 +6227,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1721, page=182, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1717, page=182, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 182>
@@ -6261,7 +6253,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1728, page=183, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1724, page=183, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 183>
@@ -6287,7 +6279,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1736, page=184, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1732, page=184, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 184>
@@ -6313,7 +6305,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1743, page=185, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1739, page=185, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 185>
@@ -6339,7 +6331,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1752, page=186, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1748, page=186, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 186>
@@ -6365,7 +6357,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1760, page=187, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1756, page=187, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 187>
@@ -6391,7 +6383,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1770, page=188, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1766, page=188, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 188>
@@ -6417,7 +6409,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1778, page=189, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1774, page=189, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 189>
@@ -6443,7 +6435,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1790, page=190, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1786, page=190, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 190>
@@ -6469,7 +6461,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1798, page=191, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1794, page=191, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 191>
@@ -6495,7 +6487,7 @@ pdfTeX warning: pdflatex.exe (file C:/Dropbox/Work/Research/Projects/KLS/KCLS H
 istory/R/content/PDFs/MarriageManuscriptREPAIRED.pdf): PDF inclusion: found PDF
  version <1.6>, but at most version <1.5> allowed
 
-<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1808, page=192, 614.295pt x 79
+<content/PDFs/MarriageManuscriptREPAIRED.pdf, id=1804, page=192, 614.295pt x 79
 4.97pt>
 File: content/PDFs/MarriageManuscriptREPAIRED.pdf Graphic file (type pdf)
  <use content/PDFs/MarriageManuscriptREPAIRED.pdf, page 192>
@@ -6524,7 +6516,7 @@ sed on input line 158.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [201 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/Marria
 geManuscriptREPAIRED.pdf, page is rotated 180 degrees>]
-<content/PDFs/ELK_Autobiograph_01.pdf, id=1826, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_01.pdf, id=1822, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_01.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_01.pdf>
@@ -6538,7 +6530,7 @@ Package pdftex.def Info: content/PDFs/ELK_Autobiograph_01.pdf used on input lin
 e 159.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<content/PDFs/ELK_Autobiograph_01.pdf, id=1829, page=1, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_01.pdf, id=1825, page=1, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_01.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_01.pdf, page 1>
@@ -6586,7 +6578,7 @@ Package pdftex.def Info: content/PDFs/ELK_Autobiograph_01.pdf used on input lin
 e 160.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<content/PDFs/ELK_Autobiograph_01.pdf, id=1841, page=2, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_01.pdf, id=1837, page=2, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_01.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_01.pdf, page 2>
@@ -6612,7 +6604,7 @@ Package pdftex.def Info: content/PDFs/ELK_Autobiograph_01.pdf, page2 used on in
 put line 160.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<content/PDFs/ELK_Autobiograph_01.pdf, id=1842, page=3, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_01.pdf, id=1838, page=3, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_01.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_01.pdf, page 3>
@@ -6633,7 +6625,7 @@ put line 160.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [203 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_01.pdf>]
-<content/PDFs/ELK_Autobiograph_01.pdf, id=1849, page=4, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_01.pdf, id=1845, page=4, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_01.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_01.pdf, page 4>
@@ -6654,7 +6646,7 @@ put line 160.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [204 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_01.pdf>]
-<content/PDFs/ELK_Autobiograph_01.pdf, id=1856, page=5, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_01.pdf, id=1852, page=5, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_01.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_01.pdf, page 5>
@@ -6675,7 +6667,7 @@ put line 160.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [205 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_01.pdf>]
-<content/PDFs/ELK_Autobiograph_01.pdf, id=1864, page=6, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_01.pdf, id=1860, page=6, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_01.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_01.pdf, page 6>
@@ -6696,7 +6688,7 @@ put line 160.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [206 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_01.pdf>]
-<content/PDFs/ELK_Autobiograph_01.pdf, id=1871, page=7, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_01.pdf, id=1867, page=7, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_01.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_01.pdf, page 7>
@@ -6717,7 +6709,7 @@ put line 160.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [207 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_01.pdf>]
-<content/PDFs/ELK_Autobiograph_01.pdf, id=1878, page=8, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_01.pdf, id=1874, page=8, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_01.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_01.pdf, page 8>
@@ -6738,7 +6730,7 @@ put line 160.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [208 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_01.pdf>]
-<content/PDFs/ELK_Autobiograph_01.pdf, id=1885, page=9, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_01.pdf, id=1881, page=9, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_01.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_01.pdf, page 9>
@@ -6759,7 +6751,7 @@ put line 160.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [209 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_01.pdf>]
-<content/PDFs/ELK_Autobiograph_01.pdf, id=1892, page=10, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_01.pdf, id=1888, page=10, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_01.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_01.pdf, page 10>
@@ -6780,7 +6772,7 @@ put line 160.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [210 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_01.pdf>]
-<content/PDFs/ELK_Autobiograph_01.pdf, id=1899, page=11, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_01.pdf, id=1895, page=11, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_01.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_01.pdf, page 11>
@@ -6801,7 +6793,7 @@ nput line 160.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [211 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_01.pdf>]
-<content/PDFs/ELK_Autobiograph_01.pdf, id=1907, page=12, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_01.pdf, id=1903, page=12, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_01.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_01.pdf, page 12>
@@ -6822,7 +6814,7 @@ nput line 160.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [212 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_01.pdf>]
-<content/PDFs/ELK_Autobiograph_01.pdf, id=1914, page=13, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_01.pdf, id=1910, page=13, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_01.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_01.pdf, page 13>
@@ -6843,7 +6835,7 @@ nput line 160.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [213 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_01.pdf>]
-<content/PDFs/ELK_Autobiograph_01.pdf, id=1921, page=14, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_01.pdf, id=1917, page=14, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_01.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_01.pdf, page 14>
@@ -6864,7 +6856,7 @@ nput line 160.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [214 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_01.pdf>]
-<content/PDFs/ELK_Autobiograph_01.pdf, id=1928, page=15, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_01.pdf, id=1924, page=15, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_01.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_01.pdf, page 15>
@@ -6885,7 +6877,7 @@ nput line 160.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [215 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_01.pdf>]
-<content/PDFs/ELK_Autobiograph_01.pdf, id=1935, page=16, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_01.pdf, id=1931, page=16, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_01.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_01.pdf, page 16>
@@ -6906,7 +6898,7 @@ nput line 160.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [216 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_01.pdf>]
-<content/PDFs/ELK_Autobiograph_01.pdf, id=1942, page=17, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_01.pdf, id=1938, page=17, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_01.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_01.pdf, page 17>
@@ -6927,7 +6919,7 @@ nput line 160.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [217 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_01.pdf>]
-<content/PDFs/ELK_Autobiograph_01.pdf, id=1950, page=18, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_01.pdf, id=1946, page=18, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_01.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_01.pdf, page 18>
@@ -6948,7 +6940,7 @@ nput line 160.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [218 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_01.pdf>]
-<content/PDFs/ELK_Autobiograph_01.pdf, id=1957, page=19, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_01.pdf, id=1953, page=19, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_01.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_01.pdf, page 19>
@@ -6969,7 +6961,7 @@ nput line 160.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [219 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_01.pdf>]
-<content/PDFs/ELK_Autobiograph_01.pdf, id=1964, page=20, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_01.pdf, id=1960, page=20, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_01.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_01.pdf, page 20>
@@ -6990,7 +6982,7 @@ nput line 160.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [220 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_01.pdf>]
-<content/PDFs/ELK_Autobiograph_01.pdf, id=1971, page=21, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_01.pdf, id=1967, page=21, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_01.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_01.pdf, page 21>
@@ -7011,7 +7003,7 @@ nput line 160.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [221 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_01.pdf>]
-<content/PDFs/ELK_Autobiograph_01.pdf, id=1978, page=22, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_01.pdf, id=1974, page=22, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_01.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_01.pdf, page 22>
@@ -7032,7 +7024,7 @@ nput line 160.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [222 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_01.pdf>]
-<content/PDFs/ELK_Autobiograph_01.pdf, id=1985, page=23, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_01.pdf, id=1981, page=23, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_01.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_01.pdf, page 23>
@@ -7053,7 +7045,7 @@ nput line 160.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [223 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_01.pdf>]
-<content/PDFs/ELK_Autobiograph_01.pdf, id=1993, page=24, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_01.pdf, id=1989, page=24, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_01.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_01.pdf, page 24>
@@ -7074,7 +7066,7 @@ nput line 160.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [224 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_01.pdf>]
-<content/PDFs/ELK_Autobiograph_01.pdf, id=2000, page=25, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_01.pdf, id=1996, page=25, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_01.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_01.pdf, page 25>
@@ -7095,7 +7087,7 @@ nput line 160.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [225 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_01.pdf>]
-<content/PDFs/ELK_Autobiograph_01.pdf, id=2007, page=26, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_01.pdf, id=2003, page=26, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_01.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_01.pdf, page 26>
@@ -7116,7 +7108,7 @@ nput line 160.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [226 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_01.pdf>]
-<content/PDFs/ELK_Autobiograph_01.pdf, id=2014, page=27, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_01.pdf, id=2010, page=27, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_01.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_01.pdf, page 27>
@@ -7137,7 +7129,7 @@ nput line 160.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [227 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_01.pdf>]
-<content/PDFs/ELK_Autobiograph_01.pdf, id=2021, page=28, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_01.pdf, id=2017, page=28, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_01.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_01.pdf, page 28>
@@ -7158,7 +7150,7 @@ nput line 160.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [228 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_01.pdf>]
-<content/PDFs/ELK_Autobiograph_01.pdf, id=2028, page=29, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_01.pdf, id=2024, page=29, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_01.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_01.pdf, page 29>
@@ -7179,7 +7171,7 @@ nput line 160.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [229 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_01.pdf>]
-<content/PDFs/ELK_Autobiograph_01.pdf, id=2036, page=30, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_01.pdf, id=2032, page=30, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_01.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_01.pdf, page 30>
@@ -7200,7 +7192,7 @@ nput line 160.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [230 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_01.pdf>]
-<content/PDFs/ELK_Autobiograph_01.pdf, id=2043, page=31, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_01.pdf, id=2039, page=31, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_01.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_01.pdf, page 31>
@@ -7221,7 +7213,7 @@ nput line 160.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [231 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_01.pdf>]
-<content/PDFs/ELK_Autobiograph_01.pdf, id=2050, page=32, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_01.pdf, id=2046, page=32, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_01.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_01.pdf, page 32>
@@ -7250,7 +7242,7 @@ nput line 160.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [233 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_01.pdf>]
-<content/PDFs/ELK_Autobiograph_33.pdf, id=2063, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_33.pdf, id=2059, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_33.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_33.pdf>
@@ -7264,7 +7256,7 @@ Package pdftex.def Info: content/PDFs/ELK_Autobiograph_33.pdf used on input lin
 e 161.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<content/PDFs/ELK_Autobiograph_33.pdf, id=2066, page=1, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_33.pdf, id=2062, page=1, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_33.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_33.pdf, page 1>
@@ -7290,7 +7282,7 @@ Package pdftex.def Info: content/PDFs/ELK_Autobiograph_33.pdf, page1 used on in
 put line 161.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<content/PDFs/ELK_Autobiograph_33.pdf, id=2067, page=2, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_33.pdf, id=2063, page=2, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_33.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_33.pdf, page 2>
@@ -7311,7 +7303,7 @@ put line 161.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [234 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_33.pdf>]
-<content/PDFs/ELK_Autobiograph_33.pdf, id=2075, page=3, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_33.pdf, id=2071, page=3, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_33.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_33.pdf, page 3>
@@ -7332,7 +7324,7 @@ put line 161.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [235 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_33.pdf>]
-<content/PDFs/ELK_Autobiograph_33.pdf, id=2083, page=4, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_33.pdf, id=2079, page=4, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_33.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_33.pdf, page 4>
@@ -7353,7 +7345,7 @@ put line 161.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [236 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_33.pdf>]
-<content/PDFs/ELK_Autobiograph_33.pdf, id=2090, page=5, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_33.pdf, id=2086, page=5, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_33.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_33.pdf, page 5>
@@ -7374,7 +7366,7 @@ put line 161.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [237 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_33.pdf>]
-<content/PDFs/ELK_Autobiograph_33.pdf, id=2097, page=6, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_33.pdf, id=2093, page=6, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_33.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_33.pdf, page 6>
@@ -7395,7 +7387,7 @@ put line 161.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [238 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_33.pdf>]
-<content/PDFs/ELK_Autobiograph_33.pdf, id=2104, page=7, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_33.pdf, id=2100, page=7, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_33.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_33.pdf, page 7>
@@ -7416,7 +7408,7 @@ put line 161.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [239 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_33.pdf>]
-<content/PDFs/ELK_Autobiograph_33.pdf, id=2111, page=8, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_33.pdf, id=2107, page=8, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_33.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_33.pdf, page 8>
@@ -7437,7 +7429,7 @@ put line 161.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [240 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_33.pdf>]
-<content/PDFs/ELK_Autobiograph_33.pdf, id=2118, page=9, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_33.pdf, id=2114, page=9, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_33.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_33.pdf, page 9>
@@ -7458,7 +7450,7 @@ put line 161.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [241 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_33.pdf>]
-<content/PDFs/ELK_Autobiograph_33.pdf, id=2126, page=10, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_33.pdf, id=2122, page=10, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_33.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_33.pdf, page 10>
@@ -7479,7 +7471,7 @@ put line 161.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [242 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_33.pdf>]
-<content/PDFs/ELK_Autobiograph_33.pdf, id=2134, page=11, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_33.pdf, id=2130, page=11, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_33.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_33.pdf, page 11>
@@ -7500,7 +7492,7 @@ nput line 161.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [243 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_33.pdf>]
-<content/PDFs/ELK_Autobiograph_33.pdf, id=2142, page=12, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_33.pdf, id=2138, page=12, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_33.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_33.pdf, page 12>
@@ -7521,7 +7513,7 @@ nput line 161.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [244 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_33.pdf>]
-<content/PDFs/ELK_Autobiograph_33.pdf, id=2149, page=13, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_33.pdf, id=2145, page=13, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_33.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_33.pdf, page 13>
@@ -7542,7 +7534,7 @@ nput line 161.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [245 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_33.pdf>]
-<content/PDFs/ELK_Autobiograph_33.pdf, id=2156, page=14, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_33.pdf, id=2152, page=14, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_33.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_33.pdf, page 14>
@@ -7563,7 +7555,7 @@ nput line 161.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [246 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_33.pdf>]
-<content/PDFs/ELK_Autobiograph_33.pdf, id=2163, page=15, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_33.pdf, id=2159, page=15, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_33.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_33.pdf, page 15>
@@ -7584,7 +7576,7 @@ nput line 161.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [247 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_33.pdf>]
-<content/PDFs/ELK_Autobiograph_33.pdf, id=2171, page=16, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_33.pdf, id=2167, page=16, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_33.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_33.pdf, page 16>
@@ -7605,7 +7597,7 @@ nput line 161.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [248 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_33.pdf>]
-<content/PDFs/ELK_Autobiograph_33.pdf, id=2178, page=17, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_33.pdf, id=2174, page=17, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_33.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_33.pdf, page 17>
@@ -7626,7 +7618,7 @@ nput line 161.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [249 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_33.pdf>]
-<content/PDFs/ELK_Autobiograph_33.pdf, id=2185, page=18, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_33.pdf, id=2181, page=18, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_33.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_33.pdf, page 18>
@@ -7647,7 +7639,7 @@ nput line 161.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [250 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_33.pdf>]
-<content/PDFs/ELK_Autobiograph_33.pdf, id=2192, page=19, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_33.pdf, id=2188, page=19, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_33.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_33.pdf, page 19>
@@ -7668,7 +7660,7 @@ nput line 161.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [251 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_33.pdf>]
-<content/PDFs/ELK_Autobiograph_33.pdf, id=2199, page=20, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_33.pdf, id=2195, page=20, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_33.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_33.pdf, page 20>
@@ -7689,7 +7681,7 @@ nput line 161.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [252 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_33.pdf>]
-<content/PDFs/ELK_Autobiograph_33.pdf, id=2206, page=21, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_33.pdf, id=2202, page=21, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_33.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_33.pdf, page 21>
@@ -7710,7 +7702,7 @@ nput line 161.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [253 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_33.pdf>]
-<content/PDFs/ELK_Autobiograph_33.pdf, id=2214, page=22, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_33.pdf, id=2210, page=22, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_33.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_33.pdf, page 22>
@@ -7731,7 +7723,7 @@ nput line 161.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [254 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_33.pdf>]
-<content/PDFs/ELK_Autobiograph_33.pdf, id=2221, page=23, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_33.pdf, id=2217, page=23, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_33.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_33.pdf, page 23>
@@ -7752,7 +7744,7 @@ nput line 161.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [255 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_33.pdf>]
-<content/PDFs/ELK_Autobiograph_33.pdf, id=2228, page=24, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_33.pdf, id=2224, page=24, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_33.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_33.pdf, page 24>
@@ -7773,7 +7765,7 @@ nput line 161.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [256 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_33.pdf>]
-<content/PDFs/ELK_Autobiograph_33.pdf, id=2235, page=25, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_33.pdf, id=2231, page=25, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_33.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_33.pdf, page 25>
@@ -7794,7 +7786,7 @@ nput line 161.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [257 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_33.pdf>]
-<content/PDFs/ELK_Autobiograph_33.pdf, id=2242, page=26, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_33.pdf, id=2238, page=26, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_33.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_33.pdf, page 26>
@@ -7815,7 +7807,7 @@ nput line 161.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [258 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_33.pdf>]
-<content/PDFs/ELK_Autobiograph_33.pdf, id=2249, page=27, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_33.pdf, id=2245, page=27, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_33.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_33.pdf, page 27>
@@ -7836,7 +7828,7 @@ nput line 161.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [259 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_33.pdf>]
-<content/PDFs/ELK_Autobiograph_33.pdf, id=2257, page=28, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_33.pdf, id=2253, page=28, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_33.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_33.pdf, page 28>
@@ -7857,7 +7849,7 @@ nput line 161.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [260 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_33.pdf>]
-<content/PDFs/ELK_Autobiograph_33.pdf, id=2264, page=29, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_33.pdf, id=2260, page=29, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_33.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_33.pdf, page 29>
@@ -7878,7 +7870,7 @@ nput line 161.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [261 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_33.pdf>]
-<content/PDFs/ELK_Autobiograph_33.pdf, id=2271, page=30, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_33.pdf, id=2267, page=30, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_33.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_33.pdf, page 30>
@@ -7899,7 +7891,7 @@ nput line 161.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [262 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_33.pdf>]
-<content/PDFs/ELK_Autobiograph_33.pdf, id=2278, page=31, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_33.pdf, id=2274, page=31, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_33.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_33.pdf, page 31>
@@ -7920,7 +7912,7 @@ nput line 161.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [263 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_33.pdf>]
-<content/PDFs/ELK_Autobiograph_33.pdf, id=2285, page=32, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_33.pdf, id=2281, page=32, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_33.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_33.pdf, page 32>
@@ -7949,7 +7941,7 @@ nput line 161.
 
 [265 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Aut
 obiograph_33.pdf>]
-<content/PDFs/ELK_Autobiograph_65.pdf, id=2299, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_65.pdf, id=2295, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_65.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_65.pdf>
@@ -7963,7 +7955,7 @@ Package pdftex.def Info: content/PDFs/ELK_Autobiograph_65.pdf used on input lin
 e 162.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<content/PDFs/ELK_Autobiograph_65.pdf, id=2302, page=1, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_65.pdf, id=2298, page=1, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_65.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_65.pdf, page 1>
@@ -7989,7 +7981,7 @@ Package pdftex.def Info: content/PDFs/ELK_Autobiograph_65.pdf, page1 used on in
 put line 162.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<content/PDFs/ELK_Autobiograph_65.pdf, id=2303, page=2, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_65.pdf, id=2299, page=2, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_65.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_65.pdf, page 2>
@@ -8010,7 +8002,7 @@ put line 162.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [266 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_65.pdf>]
-<content/PDFs/ELK_Autobiograph_65.pdf, id=2311, page=3, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_65.pdf, id=2307, page=3, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_65.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_65.pdf, page 3>
@@ -8031,7 +8023,7 @@ put line 162.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [267 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_65.pdf>]
-<content/PDFs/ELK_Autobiograph_65.pdf, id=2318, page=4, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_65.pdf, id=2314, page=4, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_65.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_65.pdf, page 4>
@@ -8052,7 +8044,7 @@ put line 162.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [268 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_65.pdf>]
-<content/PDFs/ELK_Autobiograph_65.pdf, id=2325, page=5, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_65.pdf, id=2321, page=5, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_65.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_65.pdf, page 5>
@@ -8073,7 +8065,7 @@ put line 162.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [269 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_65.pdf>]
-<content/PDFs/ELK_Autobiograph_65.pdf, id=2332, page=6, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_65.pdf, id=2328, page=6, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_65.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_65.pdf, page 6>
@@ -8094,7 +8086,7 @@ put line 162.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [270 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_65.pdf>]
-<content/PDFs/ELK_Autobiograph_65.pdf, id=2339, page=7, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_65.pdf, id=2335, page=7, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_65.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_65.pdf, page 7>
@@ -8115,7 +8107,7 @@ put line 162.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [271 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_65.pdf>]
-<content/PDFs/ELK_Autobiograph_65.pdf, id=2347, page=8, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_65.pdf, id=2343, page=8, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_65.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_65.pdf, page 8>
@@ -8136,7 +8128,7 @@ put line 162.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [272 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_65.pdf>]
-<content/PDFs/ELK_Autobiograph_65.pdf, id=2354, page=9, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_65.pdf, id=2350, page=9, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_65.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_65.pdf, page 9>
@@ -8157,7 +8149,7 @@ put line 162.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [273 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_65.pdf>]
-<content/PDFs/ELK_Autobiograph_65.pdf, id=2361, page=10, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_65.pdf, id=2357, page=10, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_65.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_65.pdf, page 10>
@@ -8178,7 +8170,7 @@ put line 162.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [274 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_65.pdf>]
-<content/PDFs/ELK_Autobiograph_65.pdf, id=2368, page=11, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_65.pdf, id=2364, page=11, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_65.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_65.pdf, page 11>
@@ -8199,7 +8191,7 @@ nput line 162.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [275 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_65.pdf>]
-<content/PDFs/ELK_Autobiograph_65.pdf, id=2375, page=12, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_65.pdf, id=2371, page=12, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_65.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_65.pdf, page 12>
@@ -8220,7 +8212,7 @@ nput line 162.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [276 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_65.pdf>]
-<content/PDFs/ELK_Autobiograph_65.pdf, id=2382, page=13, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_65.pdf, id=2378, page=13, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_65.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_65.pdf, page 13>
@@ -8241,7 +8233,7 @@ nput line 162.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [277 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_65.pdf>]
-<content/PDFs/ELK_Autobiograph_65.pdf, id=2390, page=14, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_65.pdf, id=2386, page=14, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_65.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_65.pdf, page 14>
@@ -8262,7 +8254,7 @@ nput line 162.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [278 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_65.pdf>]
-<content/PDFs/ELK_Autobiograph_65.pdf, id=2397, page=15, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_65.pdf, id=2393, page=15, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_65.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_65.pdf, page 15>
@@ -8283,7 +8275,7 @@ nput line 162.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
  [279 <C:/Dropbox/Work/Research/Projects/KLS/KCLS History/R/content/PDFs/ELK_Au
 tobiograph_65.pdf>]
-<content/PDFs/ELK_Autobiograph_65.pdf, id=2404, page=16, 614.295pt x 794.97pt>
+<content/PDFs/ELK_Autobiograph_65.pdf, id=2400, page=16, 614.295pt x 794.97pt>
 File: content/PDFs/ELK_Autobiograph_65.pdf Graphic file (type pdf)
 
 <use content/PDFs/ELK_Autobiograph_65.pdf, page 16>
@@ -8325,14 +8317,14 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 163.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 163.
 Package rerunfilecheck Info: File `draft_archival_revival.out' has not changed.
 
-(rerunfilecheck)             Checksum: 61473205843964C95D1F61C6C2166C1A;919.
+(rerunfilecheck)             Checksum: A1902BA4B4CECBA11ABF4DB95F206788;854.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 163.
  ) 
 Here is how much of TeX's memory you used:
- 25139 strings out of 493921
- 470477 string characters out of 3147269
- 537223 words of memory out of 3000000
- 27606 multiletter control sequences out of 15000+200000
+ 25137 strings out of 493921
+ 470453 string characters out of 3147269
+ 537198 words of memory out of 3000000
+ 27605 multiletter control sequences out of 15000+200000
  37163 words of font info for 39 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  62i,19n,76p,1335b,1714s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -8343,9 +8335,9 @@ c}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/lm/lmmi12.pfb><C:/Program Files/MiKTeX 2.9/fon
 ts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm
 /lmri12.pfb>
-Output written on draft_archival_revival.pdf (281 pages, 13930987 bytes).
+Output written on draft_archival_revival.pdf (281 pages, 13929876 bytes).
 PDF statistics:
- 2517 PDF objects out of 2984 (max. 8388607)
- 327 named destinations out of 1000 (max. 500000)
- 1593 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2513 PDF objects out of 2984 (max. 8388607)
+ 326 named destinations out of 1000 (max. 500000)
+ 1585 words of extra memory for PDF output out of 10000 (max. 10000000)
 
